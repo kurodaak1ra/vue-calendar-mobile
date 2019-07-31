@@ -13,7 +13,11 @@
 ### 用法
 
 ```html
-<calendar :cYear.sync="year" :cMonth.sync="month" :cDate.sync="date" :cDay.sync="day" :cShow.sync="showFlag"></calendar>
+<template>
+  <div>
+    <calendar :cYear.sync="year" :cMonth.sync="month" :cDate.sync="date" :cDay.sync="day" :cShow.sync="showFlag"></calendar>
+  </div>
+</template>
 
 <script>
   import calendar from 'ka_vue-calendar-mobile'
