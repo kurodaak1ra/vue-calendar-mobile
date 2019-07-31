@@ -6,10 +6,6 @@
 
 >复刻网易云安卓客户端用，配色也是网易的配色，不喜欢自己改别的色
 
-### 安装
-
->npm install ka_vue-calendar-mobile --save
-
 ### 用法
 
 ```html
