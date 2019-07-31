@@ -16,7 +16,7 @@
 </template>
 
 <script>
-  import calendar from 'ka_vue-calendar-mobile'
+  import calendar from './calendar.vue'
   export default {
     data() {
       return {
